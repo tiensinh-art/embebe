@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fae1dd;
+    background-color: #13293d;
     height: 100vh;
 }
 
@@ -48,14 +48,14 @@ body {
 
 
 .envelop {
-    background-color: #f08080;
+    background-color: #247ba0;
     width: 300px;
     height: 200px; 
     position: relative; 
 }
 
 .envelop::before {
-    background-color: #f08080;
+    background-color: #247ba0;
     position: absolute; 
     content: "";
     top: -105px;
@@ -221,7 +221,7 @@ body {
 
 .front {
     position: absolute;
-    border-right: 180px solid #f4978e;
+    border-right: 180px solid #006494;
     border-top: 95px solid transparent;
     border-bottom: 100px solid transparent;
     left: 120px;
@@ -269,4 +269,5 @@ body {
     top: 85px;
     position: relative;
     left: 91px;
+
 }
