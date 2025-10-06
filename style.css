@@ -103,7 +103,7 @@ body {
 }
 
 .heart {
-       background-color: #d62828;
+       background-color: #f1d01b;
     display: inline-block;
     height: 30px;
     margin: 0 10px;
@@ -116,7 +116,7 @@ body {
 
 .heart::before  {
     content: "";
-    background-color: #d62828;
+    background-color: #f1d01b;
     border-radius: 50%;
     height: 30px;
     position: absolute;
@@ -126,7 +126,7 @@ body {
 
 .heart::after {
     content: "";
-    background-color: #d62828;
+    background-color: #f1d01b;
     border-radius: 50%;
     height: 30px;
     position: absolute;
@@ -274,5 +274,6 @@ body {
     left: 91px;
 
 }
+
 
 
