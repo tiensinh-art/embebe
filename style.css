@@ -7,11 +7,14 @@
 
 p {
     
-    margin-top: -549px;
-    margin-right: -271px;
+position: absolute;
     text-align: center;
     font-family: cursive;
-    font-size: 29px
+    font-size: 22px;
+    line-height: 20px;
+    top: 44px;
+    left: 0px;
+    color: #003049;
 }
 
 /* nền lá thư */
@@ -271,3 +274,4 @@ body {
     left: 91px;
 
 }
+
