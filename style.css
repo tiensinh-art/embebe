@@ -237,7 +237,7 @@ body {
 .front::before {
     position: absolute;
     content: "";
-    border-left: 300px solid #f8ad9d;
+    border-left: 300px solid #006494;
     border-top: 195px solid transparent;
     left: -120px;
     top: -95px;
@@ -274,4 +274,5 @@ body {
     left: 91px;
 
 }
+
 
